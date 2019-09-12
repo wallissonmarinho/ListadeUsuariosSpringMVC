@@ -15,5 +15,8 @@
 - Java >= 8
 - Spring Tools >= 4
 
-
+#### URL's 
+- [Spring Tools](https://spring.io/tools)
+- [Eclipse IDE 2019‑06](https://www.eclipse.org/downloads/)   
+- [JDK](https://jdk.java.net/java-se-ri/11)
 
