@@ -8,8 +8,8 @@
 	<properties>
   		<sonar.projectKey>lista</sonar.projectKey>
   		<sonar.organization>wallissonmarinho</sonar.organization>
-  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  		<sonar.login>83f5600468a2491536c4f08959c671417ea831f4</sonar.login>
+  		<sonar.host.url>http://ec2-54-85-147-210.compute-1.amazonaws.com:9000</sonar.host.url>
+  		<sonar.login>16425baacc730f53a321ebd21e1369962869afa9</sonar.login>
 	</properties>
   	<dependencies>
   	
