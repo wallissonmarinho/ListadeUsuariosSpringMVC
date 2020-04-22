@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
 	
-	<properties>
+	<properties> 
   		<sonar.projectKey>lista</sonar.projectKey>
   		<sonar.organization>wallissonmarinho</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
