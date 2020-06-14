@@ -6,11 +6,11 @@
   <packaging>war</packaging>
 	
 	<properties>
-	  <sonar.projectKey>lista</sonar.projectKey>
-	  <sonar.organization>wallissonmarinho</sonar.organization>
-	  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-	  <sonar.login>b2dfdb1a58998db094137ba2f18c5863b20788b6</sonar.login>
+  		<sonar.projectKey>teste</sonar.projectKey>
+  		<sonar.host.url>http://ip172-18-0-7-brglogtim9m0008jm9a0-9000.direct.labs.play-with-docker.com</sonar.host.url>
+  		<sonar.login>3c91c27ce861bd9c393bec4960ce615cc17694cd</sonar.login>
 	</properties>
+	
   	<dependencies>
   	
 		 <dependency>
